@@ -1,5 +1,5 @@
 # Sync Sketch Plugins across multiple computers
-Use git instead of dropbox because downloading & extracting .zip files is dumb.
+This repository works thanks to Git Submodules System. It allows to create a meta-repository of small repositories and keep everything up to date without hasle. 
 
 Set up is simple:
 ```
@@ -7,7 +7,8 @@ Set up is simple:
   cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/
 
   # move the Plugins folder to an easier to access spiot
-  mv Plugins/ ~/path/to/new-folder
+  # I recommend ~/Sketch-Plugins/
+  mv Plugins/ ~/path/to/new-folder
 
   # create a symlink so Sketch.app can find the new folder
   ln -s ~/path/to/new-folder Plugins
@@ -16,15 +17,15 @@ Set up is simple:
 
 Adding Plugins is simple
 ```
-- Add the Files
+- you can just add the plugins files, like you would do to manually add a plugin.
 or
-- git submodule add "sketch plugin url"
+- you can add another Sketch Plugin repo with : 
+git submodule add "sketch plugin url"
 
 ```
 
 Syncing is simple
 ```
- #commit, push
  git add .
  git commit -am 'added new plugin'
  git push
@@ -34,4 +35,4 @@ Syncing is simple
 
 ```
 
-That's all.
+That's all ! Enjoy ! 
