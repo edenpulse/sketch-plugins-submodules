@@ -1,0 +1,33 @@
+[submodule "FontFinder"]
+	path = FontFinder
+	url = https://github.com/ukn530/FontFinder.git
+[submodule "RenameIt"]
+	path = RenameIt
+	url = https://github.com/rodi01/RenameIt.git
+[submodule "Sketch-Color-Contrast-Analyser"]
+	path = Sketch-Color-Contrast-Analyser
+	url = https://github.com/getflourish/Sketch-Color-Contrast-Analyser.git
+[submodule "Sketch-SF-UI-Font-Fixer"]
+	path = Sketch-SF-UI-Font-Fixer
+	url = https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer.git
+[submodule "sharpen-images-sketch"]
+	path = sharpen-images-sketch
+	url = https://github.com/axmsv/sharpen-images-sketch.git
+[submodule "sketch-dynamic-button-3.5"]
+	path = sketch-dynamic-button-3.5
+	url = https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5.git
+[submodule "sketch-palettes"]
+	path = sketch-palettes
+	url = https://github.com/andrewfiorillo/sketch-palettes.git
+[submodule "sketch-iconfont"]
+	path = sketch-iconfont
+	url = https://github.com/keremciu/sketch-iconfont.git
+[submodule "social-artboards-sketch"]
+	path = social-artboards-sketch
+	url = https://github.com/herrhelms/social-artboards-sketch.git
+[submodule "svgo-compressor"]
+	path = svgo-compressor
+	url = https://github.com/BohemianCoding/svgo-compressor.git
+[submodule "symbol-organizer"]
+	path = symbol-organizer
+	url = https://github.com/sonburn/symbol-organizer.git
