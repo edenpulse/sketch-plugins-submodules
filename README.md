@@ -18,7 +18,7 @@ Adding Plugins is simple
 ```
 - Add the Files
 or
- - git submodule add "sketch plugin url"
+- git submodule add "sketch plugin url"
 
 ```
 
@@ -30,7 +30,7 @@ Syncing is simple
  git push
 
  # on a different computer
- git pull
+ git clone --recursive https://github.com/edenpulse/sketch-plugins-submodules.git
 
 ```
 
