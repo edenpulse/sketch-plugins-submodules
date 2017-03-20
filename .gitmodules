@@ -34,3 +34,6 @@
 [submodule "Content-generator-sketch-plugin"]
 	path = Content-generator-sketch-plugin
 	url = https://github.com/timuric/Content-generator-sketch-plugin.git
+[submodule "remove-unused-symbols"]
+	path = remove-unused-symbols
+	url = https://github.com/sketchplugins/remove-unused-symbols.git
