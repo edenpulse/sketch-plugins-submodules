@@ -37,3 +37,6 @@
 [submodule "remove-unused-symbols"]
 	path = remove-unused-symbols
 	url = https://github.com/sketchplugins/remove-unused-symbols.git
+[submodule "Sketch-Style-Inventory"]
+	path = Sketch-Style-Inventory
+	url = https://github.com/getflourish/Sketch-Style-Inventory.git
