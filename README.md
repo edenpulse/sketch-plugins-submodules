@@ -1,7 +1,7 @@
 # Sync Sketch Plugins across multiple computers
 This repository works thanks to Git Submodules System. It allows to create a meta-repository of small repositories and keep everything up to date without hasle. 
 
-Set up is simple:
+## Set up is simple:
 ```
   # go to Sketch.app's application support folder
   cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/
@@ -15,7 +15,7 @@ Set up is simple:
 
 ```
 
-Adding Plugins is simple
+## Adding Plugins is simple
 ```
 - you can just add the plugins files, like you would do to manually add a plugin.
 or
@@ -24,7 +24,7 @@ git submodule add "sketch plugin url"
 
 ```
 
-Syncing is simple
+## Syncing is simple
 ```
  git add .
  git commit -am 'added new plugin'
@@ -32,6 +32,12 @@ Syncing is simple
 
  # on a different computer
  git clone --recursive https://github.com/edenpulse/sketch-plugins-submodules.git
+
+```
+## Update all plugins
+
+```
+git pull --recurse-submodules
 
 ```
 
