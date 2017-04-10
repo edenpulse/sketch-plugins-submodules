@@ -40,3 +40,6 @@
 [submodule "Automate-Sketch"]
 	path = Automate-Sketch
 	url = https://github.com/Ashung/Automate-Sketch.git
+[submodule "Sketch-Find-And-Replace"]
+	path = Sketch-Find-And-Replace
+	url = https://github.com/mscodemonkey/Sketch-Find-And-Replace.git
