@@ -22,9 +22,6 @@
 [submodule "sketch-iconfont"]
 	path = sketch-iconfont
 	url = https://github.com/keremciu/sketch-iconfont.git
-[submodule "social-artboards-sketch"]
-	path = social-artboards-sketch
-	url = https://github.com/herrhelms/social-artboards-sketch.git
 [submodule "svgo-compressor"]
 	path = svgo-compressor
 	url = https://github.com/BohemianCoding/svgo-compressor.git
