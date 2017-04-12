@@ -43,3 +43,6 @@
 [submodule "Sketch-Find-And-Replace"]
 	path = Sketch-Find-And-Replace
 	url = https://github.com/mscodemonkey/Sketch-Find-And-Replace.git
+[submodule "Font-Packer"]
+	path = Font-Packer
+	url = https://github.com/bigxixi/Font-Packer.git
