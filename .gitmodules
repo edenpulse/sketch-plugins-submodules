@@ -43,3 +43,6 @@
 [submodule "Font-Packer"]
 	path = Font-Packer
 	url = https://github.com/bigxixi/Font-Packer.git
+[submodule "Cleanup-Useless-Groups"]
+	path = Cleanup-Useless-Groups
+	url = https://github.com/bomberstudios/Cleanup-Useless-Groups.git
