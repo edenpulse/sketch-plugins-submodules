@@ -46,3 +46,6 @@
 [submodule "Cleanup-Useless-Groups"]
 	path = Cleanup-Useless-Groups
 	url = https://github.com/bomberstudios/Cleanup-Useless-Groups.git
+[submodule "symbol-instance-renamer"]
+	path = symbol-instance-renamer
+	url = https://github.com/sonburn/symbol-instance-renamer.git
