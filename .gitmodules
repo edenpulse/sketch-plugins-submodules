@@ -49,3 +49,6 @@
 [submodule "symbol-instance-renamer"]
 	path = symbol-instance-renamer
 	url = https://github.com/sonburn/symbol-instance-renamer.git
+[submodule "Fontily"]
+	path = Fontily
+	url = https://github.com/partyka1/Fontily.git
