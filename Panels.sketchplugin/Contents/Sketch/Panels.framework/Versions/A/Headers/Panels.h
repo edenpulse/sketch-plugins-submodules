@@ -28,6 +28,9 @@ FOUNDATION_EXPORT const unsigned char PanelsVersionString[];
 #import <Panels/NSArray+Random.h>
 #import <Panels/ICLogger.h>
 #import "ICHTTPProxyManager.h"
+#import <Panels/A0SimpleKeychain.h>
+#import <Panels/A0SimpleKeychain+KeyPair.h>
+
 // In this header, you should import all the public headers of your framework using statements like #import <Panels/PublicHeader.h>
 
 

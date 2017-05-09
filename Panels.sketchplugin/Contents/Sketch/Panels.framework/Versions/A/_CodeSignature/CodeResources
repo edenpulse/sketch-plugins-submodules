@@ -55,6 +55,28 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/A0SimpleKeychain+KeyPair.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o+XVd0O/CqCLuMK6RDkpplOte64=
+			</data>
+			<key>hash2</key>
+			<data>
+			Bf1vA3w7thfxkDS/cQ8u37C8eXcwIFH0w1TRx6twoS8=
+			</data>
+		</dict>
+		<key>Headers/A0SimpleKeychain.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qP8pEvRxrMRxhoARzmstTzW3ACw=
+			</data>
+			<key>hash2</key>
+			<data>
+			ukZG+sv6ukd00QSZNRs+acC5ReLyKx04iko6EXdSDH8=
+			</data>
+		</dict>
 		<key>Headers/ICHTTPProxyManager.h</key>
 		<dict>
 			<key>hash</key>
@@ -213,11 +235,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wiXxOkCltR8DTi8M7ZF7USthoQk=
+			WiOf1hn2wcLX/JsInr5Blg+vrAY=
 			</data>
 			<key>hash2</key>
 			<data>
-			6JNAMMGwj/7J424E4wvjd4pLnDftBIH5vfWY6C/Ecsw=
+			0165JX7BTmaPIo2L86Od1xinOgX8eHd20ZtZ+4Q1sdU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
