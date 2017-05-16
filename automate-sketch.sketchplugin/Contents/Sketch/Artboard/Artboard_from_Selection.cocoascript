@@ -1,0 +1,25 @@
+/*----------------------------------------------------------
+
+Author: Ashung Hung
+Homepage: https://github.com/Ashung/Automate-Sketch
+License: https://creativecommons.org/licenses/by-sa/4.0
+
+----------------------------------------------------------*/
+
+var onRun = function(context) {
+
+    var doc = context.document;
+    var selection = context.selection;
+
+    var loopSelection = selection.objectEnumerator();
+    var layer;
+    while (layer = loopSelection.nextObject()) {
+        var artboard = MSArtboardGroup.alloc().init();
+        artboard.setName(layer.name());
+        artboard.setFrame(MSRect.alloc().initWithRect(layer.absoluteRect().rect()));
+        doc.currentPage().addLayers([artboard]);
+        artboard.frame().setConstrainProportions(false);
+        layer.moveToLayer_beforeLayer(artboard, nil);
+    }
+
+}

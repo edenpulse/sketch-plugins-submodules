@@ -1,0 +1,31 @@
+/*----------------------------------------------------------
+
+Author: Ashung Hung
+Homepage: https://github.com/Ashung/Automate-Sketch
+License: https://creativecommons.org/licenses/by-sa/4.0
+
+----------------------------------------------------------*/
+
+var onRun = function(context) {
+
+    var document = context.document;
+    var selection = context.selection;
+
+    var loopSelection = selection.objectEnumerator();
+    var layer;
+    while (layer = loopSelection.nextObject()) {
+
+        var layers = MSLayerArray.arrayWithLayers([layer]);
+        if (MSSymbolCreator.canCreateSymbolFromLayers(layers)) {
+
+            var symbolName = layer.name();
+            var symbolInstance = MSSymbolCreator.createSymbolFromLayers_withName_onSymbolsPage(layers, symbolName, false);
+            var symbolMaster = symbolInstance.symbolMaster();
+
+            symbolMaster.setRect(symbolInstance.absoluteRect().rect());
+            symbolMaster.setLayerListExpandedType(1);
+            symbolInstance.removeFromParent();
+        }
+    }
+
+}
