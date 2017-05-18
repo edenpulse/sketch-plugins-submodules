@@ -48,6 +48,10 @@
 		<data>
 		iN2h/hwgtoChMT52HXVKN3YwM3g=
 		</data>
+		<key>Resources/sketch-api-debug.js</key>
+		<data>
+		ZJJgyVX1POJ+L7If2tAGco3dcc8=
+		</data>
 		<key>Resources/sketch-api.js</key>
 		<data>
 		Jm+h4JqYTr6jCCFCJhUJ7OpRj3c=
@@ -372,6 +376,17 @@
 			<key>hash2</key>
 			<data>
 			B+gi43zHhhwCDsCiBMcZrgPUF4fwLE4DReMphNg9PoM=
+			</data>
+		</dict>
+		<key>Resources/sketch-api-debug.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZJJgyVX1POJ+L7If2tAGco3dcc8=
+			</data>
+			<key>hash2</key>
+			<data>
+			K7s5npIntyprbLtx67kG+oQ0GphIFud3jppYJ7pDamk=
 			</data>
 		</dict>
 		<key>Resources/sketch-api.js</key>
