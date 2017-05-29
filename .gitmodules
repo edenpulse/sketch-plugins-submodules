@@ -55,3 +55,6 @@
 [submodule "chromatic-sketch"]
 	path = chromatic-sketch
 	url = https://github.com/petterheterjag/chromatic-sketch.git
+[submodule "BaseAlign"]
+	path = BaseAlign
+	url = https://github.com/abynim/BaseAlign.git
