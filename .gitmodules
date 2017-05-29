@@ -52,3 +52,6 @@
 [submodule "Fontily"]
 	path = Fontily
 	url = https://github.com/partyka1/Fontily.git
+[submodule "chromatic-sketch"]
+	path = chromatic-sketch
+	url = https://github.com/petterheterjag/chromatic-sketch.git
