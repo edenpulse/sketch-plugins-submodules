@@ -37,7 +37,7 @@ git submodule add "sketch plugin url"
 ## Update all plugins
 
 ```
-git pull --recurse-submodules
+git submodule foreach git pull origin master
 
 ```
 ## To Remove a Plugin "submodule"
