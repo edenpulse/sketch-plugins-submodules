@@ -22,9 +22,6 @@
 [submodule "sketch-iconfont"]
 	path = sketch-iconfont
 	url = https://github.com/keremciu/sketch-iconfont.git
-[submodule "svgo-compressor"]
-	path = svgo-compressor
-	url = https://github.com/BohemianCoding/svgo-compressor.git
 [submodule "symbol-organizer"]
 	path = symbol-organizer
 	url = https://github.com/sonburn/symbol-organizer.git
