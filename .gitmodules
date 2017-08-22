@@ -10,9 +10,6 @@
 [submodule "Sketch-SF-UI-Font-Fixer"]
 	path = Sketch-SF-UI-Font-Fixer
 	url = https://github.com/kylehickinson/Sketch-SF-UI-Font-Fixer.git
-[submodule "sharpen-images-sketch"]
-	path = sharpen-images-sketch
-	url = https://github.com/axmsv/sharpen-images-sketch.git
 [submodule "sketch-dynamic-button-3.5"]
 	path = sketch-dynamic-button-3.5
 	url = https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5.git
