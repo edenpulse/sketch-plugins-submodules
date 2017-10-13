@@ -22,9 +22,6 @@
 [submodule "symbol-organizer"]
 	path = symbol-organizer
 	url = https://github.com/sonburn/symbol-organizer.git
-[submodule "Content-generator-sketch-plugin"]
-	path = Content-generator-sketch-plugin
-	url = https://github.com/timuric/Content-generator-sketch-plugin.git
 [submodule "Sketch-Style-Inventory"]
 	path = Sketch-Style-Inventory
 	url = https://github.com/getflourish/Sketch-Style-Inventory.git
