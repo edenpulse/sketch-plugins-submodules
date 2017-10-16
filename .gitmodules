@@ -49,3 +49,6 @@
 [submodule "BaseAlign"]
 	path = BaseAlign
 	url = https://github.com/abynim/BaseAlign.git
+[submodule "TinyFaces-Sketch-Plugin"]
+	path = TinyFaces-Sketch-Plugin
+	url = https://github.com/maximedegreve/TinyFaces-Sketch-Plugin.git
