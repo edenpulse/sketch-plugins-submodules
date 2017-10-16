@@ -1,6 +1,3 @@
-[submodule "RenameIt"]
-	path = RenameIt
-	url = https://github.com/rodi01/RenameIt.git
 [submodule "Sketch-Color-Contrast-Analyser"]
 	path = Sketch-Color-Contrast-Analyser
 	url = https://github.com/getflourish/Sketch-Color-Contrast-Analyser.git
@@ -10,9 +7,6 @@
 [submodule "sketch-dynamic-button-3.5"]
 	path = sketch-dynamic-button-3.5
 	url = https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5.git
-[submodule "sketch-palettes"]
-	path = sketch-palettes
-	url = https://github.com/andrewfiorillo/sketch-palettes.git
 [submodule "symbol-organizer"]
 	path = symbol-organizer
 	url = https://github.com/sonburn/symbol-organizer.git
