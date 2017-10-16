@@ -1,6 +1,3 @@
-[submodule "FontFinder"]
-	path = FontFinder
-	url = https://github.com/ukn530/FontFinder.git
 [submodule "RenameIt"]
 	path = RenameIt
 	url = https://github.com/rodi01/RenameIt.git
@@ -16,24 +13,12 @@
 [submodule "sketch-palettes"]
 	path = sketch-palettes
 	url = https://github.com/andrewfiorillo/sketch-palettes.git
-[submodule "sketch-iconfont"]
-	path = sketch-iconfont
-	url = https://github.com/keremciu/sketch-iconfont.git
 [submodule "symbol-organizer"]
 	path = symbol-organizer
 	url = https://github.com/sonburn/symbol-organizer.git
-[submodule "Sketch-Style-Inventory"]
-	path = Sketch-Style-Inventory
-	url = https://github.com/getflourish/Sketch-Style-Inventory.git
-[submodule "Automate-Sketch"]
-	path = Automate-Sketch
-	url = https://github.com/Ashung/Automate-Sketch.git
 [submodule "Sketch-Find-And-Replace"]
 	path = Sketch-Find-And-Replace
 	url = https://github.com/mscodemonkey/Sketch-Find-And-Replace.git
-[submodule "Font-Packer"]
-	path = Font-Packer
-	url = https://github.com/bigxixi/Font-Packer.git
 [submodule "Cleanup-Useless-Groups"]
 	path = Cleanup-Useless-Groups
 	url = https://github.com/bomberstudios/Cleanup-Useless-Groups.git
@@ -46,9 +31,6 @@
 [submodule "chromatic-sketch"]
 	path = chromatic-sketch
 	url = https://github.com/petterheterjag/chromatic-sketch.git
-[submodule "BaseAlign"]
-	path = BaseAlign
-	url = https://github.com/abynim/BaseAlign.git
 [submodule "TinyFaces-Sketch-Plugin"]
 	path = TinyFaces-Sketch-Plugin
 	url = https://github.com/maximedegreve/TinyFaces-Sketch-Plugin.git
