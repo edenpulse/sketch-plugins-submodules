@@ -34,7 +34,7 @@ To remove a submodule you need to:
 - Commit git commit -m "Removed submodule <name>"
 - Delete the now untracked submodule files
 - rm -rf path_to_submodule
-
+```
 
 ## Syncing is simple
 ```
