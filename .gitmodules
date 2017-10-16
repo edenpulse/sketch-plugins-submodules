@@ -28,3 +28,9 @@
 [submodule "TinyFaces-Sketch-Plugin"]
 	path = TinyFaces-Sketch-Plugin
 	url = https://github.com/maximedegreve/TinyFaces-Sketch-Plugin.git
+[submodule "sketch-palettes"]
+	path = sketch-palettes
+	url = https://github.com/andrewfiorillo/sketch-palettes.git
+[submodule "RenameIt"]
+	path = RenameIt
+	url = https://github.com/rodi01/RenameIt.git
