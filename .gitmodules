@@ -34,3 +34,6 @@
 [submodule "RenameIt"]
 	path = RenameIt
 	url = https://github.com/rodi01/RenameIt.git
+[submodule "sketch-styles-generator"]
+	path = sketch-styles-generator
+	url = https://github.com/lucaorio/sketch-styles-generator.git

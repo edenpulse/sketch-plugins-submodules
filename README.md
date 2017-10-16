@@ -23,6 +23,18 @@ or
 git submodule add "sketch plugin url"
 
 ```
+## Removing Plugins is dead boring
+```
+To remove a submodule you need to:
+- Delete the relevant section from the .gitmodules file.
+- Stage the .gitmodules changes git add .gitmodules
+- Delete the relevant section from .git/config.
+- Run git rm --cached path_to_submodule (no trailing slash).
+- Run rm -rf .git/modules/path_to_submodule
+- Commit git commit -m "Removed submodule <name>"
+- Delete the now untracked submodule files
+- rm -rf path_to_submodule
+
 
 ## Syncing is simple
 ```
