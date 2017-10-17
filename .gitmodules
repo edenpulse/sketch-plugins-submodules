@@ -37,3 +37,6 @@
 [submodule "sketch-styles-generator"]
 	path = sketch-styles-generator
 	url = https://github.com/lucaorio/sketch-styles-generator.git
+[submodule "library-symbol-replacer"]
+	path = library-symbol-replacer
+	url = https://github.com/zeroheight/library-symbol-replacer.git
