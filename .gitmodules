@@ -40,3 +40,6 @@
 [submodule "library-symbol-replacer"]
 	path = library-symbol-replacer
 	url = https://github.com/zeroheight/library-symbol-replacer.git
+[submodule "shared-text-styles"]
+	path = shared-text-styles
+	url = https://github.com/nilshoenson/shared-text-styles.git
