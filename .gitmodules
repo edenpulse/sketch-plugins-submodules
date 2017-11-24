@@ -43,3 +43,6 @@
 [submodule "shared-text-styles"]
 	path = shared-text-styles
 	url = https://github.com/nilshoenson/shared-text-styles.git
+[submodule "symbol-swapper"]
+	path = symbol-swapper
+	url = https://github.com/sonburn/symbol-swapper.git
