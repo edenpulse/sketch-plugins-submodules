@@ -46,3 +46,6 @@
 [submodule "symbol-swapper"]
 	path = symbol-swapper
 	url = https://github.com/sonburn/symbol-swapper.git
+[submodule "Sketch-Social-Media-Templates"]
+	path = Sketch-Social-Media-Templates
+	url = https://github.com/JayHoltslander/Sketch-Social-Media-Templates.git
