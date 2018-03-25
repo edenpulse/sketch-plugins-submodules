@@ -37,3 +37,6 @@
 [submodule "paddy-sketch-plugin"]
 	path = paddy-sketch-plugin
 	url = https://github.com/DWilliames/paddy-sketch-plugin.git
+[submodule "Automate-Sketch"]
+	path = Automate-Sketch
+	url = https://github.com/Ashung/Automate-Sketch.git
