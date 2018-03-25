@@ -34,3 +34,6 @@
 [submodule "sketch-styles-generator"]
 	path = sketch-styles-generator
 	url = https://github.com/lucaorio/sketch-styles-generator.git
+[submodule "paddy-sketch-plugin"]
+	path = paddy-sketch-plugin
+	url = https://github.com/DWilliames/paddy-sketch-plugin.git
