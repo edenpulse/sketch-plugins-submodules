@@ -40,3 +40,6 @@
 [submodule "Automate-Sketch"]
 	path = Automate-Sketch
 	url = https://github.com/Ashung/Automate-Sketch.git
+[submodule "shared-text-styles"]
+	path = shared-text-styles
+	url = https://github.com/nilshoenson/shared-text-styles.git
