@@ -40,6 +40,3 @@
 [submodule "shared-text-styles"]
 	path = shared-text-styles
 	url = https://github.com/nilshoenson/shared-text-styles.git
-[submodule "RenameIt"]
-	path = RenameIt
-	url = https://github.com/rodi01/RenameIt.git
