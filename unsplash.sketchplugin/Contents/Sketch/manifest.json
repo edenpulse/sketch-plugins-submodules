@@ -31,7 +31,7 @@
       "imageDetails"
     ]
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Easily grab images from Unsplash",
   "identifier": "unsplash",
   "disableCocoaScriptPreprocessor": true,
