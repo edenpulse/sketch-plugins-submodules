@@ -1,0 +1,117 @@
+{
+    "author" : "Runner Team",
+    "commands" : [
+        {
+            "script" : "script.js",
+            "handler" : "upgradeToPro",
+            "name" : "Switch to Runner Pro",
+            "identifier" : "upgradeToPro",
+            "description" : "Runner Pro is free for 14 days. See sketchrunner.com for details",
+            "icon" : "icons/run.png"
+        },
+        {
+            "script" : "script.js",
+            "handler" : "onRun",
+            "shortcut" : "cmd '",
+            "name" : "Run...",
+            "identifier" : "run",
+            "icon" : "classic-icons/run.png"
+        },
+        {
+            "script" : "script.js",
+            "handler" : "onRun",
+            "shortcut" : "cmd shift '",
+            "name" : "Run Last Action",
+            "identifier" : "runLast",
+            "icon" : "classic-icons/run.png"
+        },
+        {
+            "script" : "script.js",
+            "handler" : "onRun",
+            "shortcut" : "",
+            "name" : "Go To",
+            "identifier" : "goto",
+            "icon" : "classic-icons/goto.png"
+        },
+        {
+            "script" : "script.js",
+            "handler" : "onRun",
+            "shortcut" : "",
+            "name" : "Insert",
+            "identifier" : "insert",
+            "icon" : "classic-icons/insert.png"
+        },
+        {
+            "script" : "script.js",
+            "handler" : "onRun",
+            "shortcut" : "",
+            "name" : "Create",
+            "identifier" : "create",
+            "icon" : "classic-icons/create.png"
+        },
+        {
+            "script" : "script.js",
+            "handler" : "onRun",
+            "shortcut" : "",
+            "name" : "Apply",
+            "identifier" : "apply",
+            "icon" : "classic-icons/apply.png"
+        },
+        {
+            "script" : "script.js",
+            "handler" : "onRun",
+            "shortcut" : "",
+            "name" : "Install",
+            "identifier" : "install",
+            "icon" : "classic-icons/install.png"
+        },
+        {
+            "script" : "script.js",
+            "handler" : "onRun",
+            "shortcut" : "",
+            "name" : "Customize Toolbar Menu...",
+            "identifier" : "customizeToolbar",
+            "description" : "Customize your Sketch Toolbar by adding plugin actions",
+            "icon" : "classic-icons/icon-runnerLogo.png"
+        },
+        {
+            "script": "script.js",
+            "handlers": {
+                "actions": {
+                    "Startup" : "onStart"
+                }
+            }
+        },
+        {
+            "script": "script.js",
+            "handlers": {
+                "actions": {
+                    "OpenDocument" : "onDocOpen"
+                }
+            }
+        }
+    ],
+    "menu": {
+        "title" : "🏃🏿 Runner",
+        "items": [
+            "run",
+            "runLast",
+            "-",
+            "goto",
+            "insert",
+            "create",
+            "apply",
+            "install",
+            "-",
+            "upgradeToPro"
+        ]
+    },
+    "identifier" : "com.sketchrunner.Runner",
+    "version" : "0.9.8",
+    "icon" : "classic-icons/runner-icon.png",
+    "description" : "Speed up your Sketch workflow",
+    "authorEmail" : "hello@sketchrunner.com",
+    "name" : "🏃🏿 Runner",
+    "disableCocoaScriptPreprocessor" : true,
+    "appcast" : "https://sketchrunner.com/appcast-classic.xml"
+}

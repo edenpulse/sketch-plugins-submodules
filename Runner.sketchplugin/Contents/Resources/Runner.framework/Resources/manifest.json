@@ -1,0 +1,34 @@
+{
+    "commands" : [
+        {
+            "script" : "script.js",
+            "handler" : "go",
+            "shortcut" : "cmd '",
+            "name" : "Start",
+            "identifier" : "run"
+        },
+        {
+            "script": "script.js",
+            "handlers": {
+                "actions": {
+                    "Startup" : "go"
+                }
+            }
+        }
+    ],
+    "menu": {
+        "title" : "🏃🏿 Runner Pro",
+        "items": [
+            "run"
+        ]
+    },
+    "identifier" : "com.sketchrunner.v1.Runner",
+    "version" : "1.0.8",
+    "icon" : "icons/runner-icon.png",
+    "description" : "Speed up your Sketch workflow",
+    "authorEmail" : "hello@sketchrunner.com",
+    "name" : "🏃🏿 Runner Pro",
+    "disableCocoaScriptPreprocessor" : true,
+    "homepage" : "https://sketchrunner.com/release-notes",
+    "appcast" : "https://sketchrunner.com/appcast.xml"
+}
