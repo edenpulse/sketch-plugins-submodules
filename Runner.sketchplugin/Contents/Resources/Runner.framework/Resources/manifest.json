@@ -23,7 +23,7 @@
         ]
     },
     "identifier" : "com.sketchrunner.v1.Runner",
-    "version" : "1.0.8",
+    "version" : "1.0.9",
     "icon" : "icons/runner-icon.png",
     "description" : "Speed up your Sketch workflow",
     "authorEmail" : "hello@sketchrunner.com",
