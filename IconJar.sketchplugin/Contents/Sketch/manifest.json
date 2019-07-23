@@ -1,0 +1,22 @@
+{
+  "author" : "IconJar",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "name" : "Export To IconJar...",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.iconjar.iconjar.sketch.export.command.export"
+    }
+  ],
+  "menu": {
+    "isRoot": true,
+    "items": ["com.iconjar.iconjar.sketch.export.command.export"]
+  },
+  "identifier" : "com.iconjar.iconjar.sketch.export",
+  "version" : "0.0.2",
+  "description" : "Exports selection to IconJar",
+  "authorEmail" : "dev@geticonjar.com",
+  "name" : "IconJar Utilities"
+}
