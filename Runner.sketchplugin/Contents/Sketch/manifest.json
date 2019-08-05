@@ -142,9 +142,9 @@
     }
   ],
   "appcast" : "https:\/\/sketchrunner.com\/appcast.xml",
-  "name" : "🏃🏿 Runner Pro",
+  "authorEmail" : "hello@sketchrunner.com",
   "menu" : {
-    "title" : "🏃🏿 Runner Pro",
+    "title" : "🏃🏿 Runner",
     "items" : [
       "run",
       "runLast",
@@ -171,6 +171,6 @@
   "version" : "1.0.9",
   "description" : "Speed up your Sketch workflow",
   "homepage" : "https:\/\/sketchrunner.com\/release-notes",
-  "icon" : "icons\/runner-icon.png",
-  "authorEmail" : "hello@sketchrunner.com"
+  "name" : "🏃🏿 Runner",
+  "icon" : "icons\/runner-icon.png"
 }
