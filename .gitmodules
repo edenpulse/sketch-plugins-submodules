@@ -43,3 +43,6 @@
 [submodule "RenameIt"]
 	path = RenameIt
 	url = https://github.com/rodi01/RenameIt.git
+[submodule "sketch-measure"]
+	path = sketch-measure
+	url = https://github.com/utom/sketch-measure.git
