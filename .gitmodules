@@ -46,3 +46,6 @@
 [submodule "sketch-measure"]
 	path = sketch-measure
 	url = https://github.com/utom/sketch-measure.git
+[submodule "magic-buttons-sketch-plugin"]
+	path = magic-buttons-sketch-plugin
+	url = https://github.com/upxlabs/magic-buttons-sketch-plugin.git
