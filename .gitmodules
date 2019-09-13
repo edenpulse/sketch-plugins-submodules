@@ -49,3 +49,6 @@
 [submodule "magic-buttons-sketch-plugin"]
 	path = magic-buttons-sketch-plugin
 	url = https://github.com/upxlabs/magic-buttons-sketch-plugin.git
+[submodule "Google-sheets-content-sync-sketch-plugin"]
+	path = Google-sheets-content-sync-sketch-plugin
+	url = https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin.git
