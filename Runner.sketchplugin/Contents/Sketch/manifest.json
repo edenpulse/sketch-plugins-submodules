@@ -141,8 +141,8 @@
       "identifier" : "signIn"
     }
   ],
-  "appcast" : "https:\/\/sketchrunner.com\/appcast.xml",
   "name" : "🏃🏿 Runner",
+  "appcast" : "https:\/\/sketchrunner.com\/appcast.xml",
   "menu" : {
     "title" : "🏃🏿 Runner",
     "items" : [
@@ -168,7 +168,7 @@
   },
   "disableCocoaScriptPreprocessor" : true,
   "identifier" : "com.sketchrunner.v1.Runner",
-  "version" : "1.0.9",
+  "version" : "1.0.10",
   "description" : "Speed up your Sketch workflow",
   "homepage" : "https:\/\/sketchrunner.com\/release-notes",
   "icon" : "icons\/runner-icon.png",

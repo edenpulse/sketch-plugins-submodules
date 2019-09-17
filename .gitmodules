@@ -52,3 +52,6 @@
 [submodule "Google-sheets-content-sync-sketch-plugin"]
 	path = Google-sheets-content-sync-sketch-plugin
 	url = https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin.git
+[submodule "lippy"]
+	path = lippy
+	url = https://github.com/abynim/lippy.git
