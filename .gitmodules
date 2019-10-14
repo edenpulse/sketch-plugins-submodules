@@ -55,3 +55,6 @@
 [submodule "lippy"]
 	path = lippy
 	url = https://github.com/abynim/lippy.git
+[submodule "library-symbol-replacer"]
+	path = library-symbol-replacer
+	url = https://github.com/zeroheight/library-symbol-replacer.git
