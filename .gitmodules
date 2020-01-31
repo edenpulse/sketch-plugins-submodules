@@ -55,3 +55,6 @@
 [submodule "library-symbol-replacer"]
 	path = library-symbol-replacer
 	url = https://github.com/zeroheight/library-symbol-replacer.git
+[submodule "Sketch-Find-And-Replace"]
+	path = Sketch-Find-And-Replace
+	url = https://github.com/thierryc/Sketch-Find-And-Replace.git

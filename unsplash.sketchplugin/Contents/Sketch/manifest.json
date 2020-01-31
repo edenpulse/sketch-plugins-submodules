@@ -31,10 +31,10 @@
       "imageDetails"
     ]
   },
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "Easily grab images from Unsplash",
   "identifier": "unsplash",
   "disableCocoaScriptPreprocessor": true,
-  "appcast": "https://raw.githubusercontent.com/BohemianCoding/unsplash-sketchplugin/master/.appcast.xml",
+  "appcast": "https://raw.githubusercontent.com/sketch-hq/unsplash-sketchplugin/master/.appcast.xml",
   "author": "Sketch"
 }
