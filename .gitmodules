@@ -10,9 +10,6 @@
 [submodule "symbol-organizer"]
 	path = symbol-organizer
 	url = https://github.com/sonburn/symbol-organizer.git
-[submodule "Sketch-Find-And-Replace"]
-	path = Sketch-Find-And-Replace
-	url = https://github.com/mscodemonkey/Sketch-Find-And-Replace.git
 [submodule "symbol-instance-renamer"]
 	path = symbol-instance-renamer
 	url = https://github.com/sonburn/symbol-instance-renamer.git
