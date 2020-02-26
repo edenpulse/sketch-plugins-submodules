@@ -142,7 +142,7 @@
     }
   ],
   "appcast" : "https:\/\/sketchrunner.com\/appcast.xml",
-  "authorEmail" : "hello@sketchrunner.com",
+  "icon" : "icons\/runner-icon.png",
   "menu" : {
     "title" : "🏃🏿 Runner",
     "items" : [
@@ -171,6 +171,6 @@
   "version" : "1.0.11",
   "description" : "Speed up your Sketch workflow",
   "homepage" : "https:\/\/sketchrunner.com\/release-notes",
-  "name" : "🏃🏿 Runner",
-  "icon" : "icons\/runner-icon.png"
+  "authorEmail" : "hello@sketchrunner.com",
+  "name" : "🏃🏿 Runner"
 }
