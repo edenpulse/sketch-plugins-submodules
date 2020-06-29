@@ -1,176 +1,34 @@
 {
-  "commands" : [
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "cmd '",
-      "iconDark" : "icons\/run-dark.png",
-      "identifier" : "run",
-      "name" : "Run",
-      "icon" : "icons\/run.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/runLast-dark.png",
-      "identifier" : "runLast",
-      "name" : "Run Last Action",
-      "icon" : "icons\/runLast.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/run-dark.png",
-      "identifier" : "runSlashCommand",
-      "name" : "Run \/Command",
-      "icon" : "icons\/run.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/goto-dark.png",
-      "identifier" : "goto",
-      "name" : "Goto",
-      "icon" : "icons\/goto.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/insert-dark.png",
-      "identifier" : "insert",
-      "name" : "Insert",
-      "icon" : "icons\/insert.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/create-dark.png",
-      "identifier" : "create",
-      "name" : "Create",
-      "icon" : "icons\/create.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/apply-dark.png",
-      "identifier" : "apply",
-      "name" : "Apply",
-      "icon" : "icons\/apply.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/install-dark.png",
-      "identifier" : "install",
-      "name" : "Install",
-      "icon" : "icons\/install.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/settings-dark.png",
-      "identifier" : "runbarSettings",
-      "name" : "Customize RunBar",
-      "icon" : "icons\/settings.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/settings-dark.png",
-      "identifier" : "showSettings",
-      "name" : "Settings",
-      "icon" : "icons\/settings.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/runbar-dark.png",
-      "identifier" : "toggleRunbar",
-      "name" : "Toggle RunBar",
-      "icon" : "icons\/runbar.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/run-dark.png",
-      "identifier" : "showFeatures",
-      "name" : "Features",
-      "icon" : "icons\/run.png"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "icon" : "classic-icons\/runner-icon.png",
-      "name" : "Revert to Classic",
-      "identifier" : "revertToClassic"
-    },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "iconDark" : "icons\/run-dark.png",
-      "identifier" : "sendFeedback",
-      "name" : "Send Feedback",
-      "icon" : "icons\/run.png"
-    },
-    {
-      "script" : "script.js",
-      "handlers" : {
-        "actions" : {
-          "Startup" : "go"
+    "commands" : [
+        {
+            "script" : "script.js",
+            "handler" : "go",
+            "shortcut" : "cmd '",
+            "name" : "Start",
+            "identifier" : "run"
+        },
+        {
+            "script": "script.js",
+            "handlers": {
+                "actions": {
+                    "Startup" : "go"
+                }
+            }
         }
-      }
+    ],
+    "menu": {
+        "title" : "🏃🏿 Runner Pro",
+        "items": [
+            "run"
+        ]
     },
-    {
-      "script" : "script.js",
-      "handler" : "go",
-      "shortcut" : "",
-      "name" : "Sign In..",
-      "identifier" : "signIn"
-    }
-  ],
-  "appcast" : "https:\/\/sketchrunner.com\/appcast.xml",
-  "icon" : "icons\/runner-icon.png",
-  "menu" : {
-    "title" : "🏃🏿 Runner",
-    "items" : [
-      "run",
-      "runLast",
-      "-",
-      "goto",
-      "insert",
-      "create",
-      "apply",
-      "install",
-      "-",
-      "toggleRunbar",
-      "-",
-      "showSettings",
-      "showFeatures",
-      "sendFeedback",
-      "-",
-      "revertToClassic",
-      "-",
-      "signIn"
-    ]
-  },
-  "disableCocoaScriptPreprocessor" : true,
-  "identifier" : "com.sketchrunner.v1.Runner",
-  "version" : "1.0.11",
-  "description" : "Speed up your Sketch workflow",
-  "homepage" : "https:\/\/sketchrunner.com\/release-notes",
-  "authorEmail" : "hello@sketchrunner.com",
-  "name" : "🏃🏿 Runner"
+    "identifier" : "com.sketchrunner.v1.Runner",
+    "version" : "1.1.3",
+    "icon" : "icons/runner-icon.png",
+    "description" : "Speed up your Sketch workflow",
+    "authorEmail" : "hello@sketchrunner.com",
+    "name" : "🏃🏿 Runner Pro",
+    "disableCocoaScriptPreprocessor" : true,
+    "homepage" : "https://sketchrunner.com/release-notes",
+    "appcast" : "https://sketchrunner.com/appcast.xml"
 }

@@ -8,6 +8,10 @@
                       }, {
                       "type" : "plugin",
                       "pluginID" : "com.sketchrunner.v1.Runner",
+                      "commandID" : "componentsBrowser"
+                      }, {
+                      "type" : "plugin",
+                      "pluginID" : "com.sketchrunner.v1.Runner",
                       "commandID" : "insert"
                       }, {
                       "type" : "separator"

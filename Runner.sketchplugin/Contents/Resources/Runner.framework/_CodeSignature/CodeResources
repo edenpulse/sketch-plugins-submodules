@@ -6,27 +6,75 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		AY2e0qUGhp1pMDGyoNZiNkz3XLk=
+		Joq5GAHZPHiuDBIewVSBU1O7rSc=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		TFl3ACiiek4n/nwZtYV+c9nZlGo=
+		B3vNyAWm8NCSbKUVt0bZ+j0p29M=
 		</data>
 		<key>Resources/SketchRunnerActionPopoverController.nib</key>
 		<data>
-		9ku6EVf1exWIyy5gRyRUAKYopoQ=
+		Ax3Lte11F606fHOCSNXlBv27bfk=
+		</data>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/I7w-iG-Z7f-view-nR5-zm-dnO.nib</key>
+		<data>
+		vPsDh7e/h+B5RMftHf/BxNU6MQo=
+		</data>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/Info.plist</key>
+		<data>
+		LokWVrJu/dKC0QA+4El1ZOD+hC4=
+		</data>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/Iun-2h-HI3-view-VGt-t6-Tqo.nib</key>
+		<data>
+		h7TwjTygY18NKsQ/YZMGUOygAmY=
+		</data>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/NSWindowController-aQD-xw-5aj.nib</key>
+		<data>
+		qwmppQ7wWD8JWvlnYgrDU8GR1oM=
+		</data>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/bFk-kD-BfT-view-Jb1-5S-CMM.nib</key>
+		<data>
+		yJdXx4ZfMCxLVAiIM3qz+bcv4VA=
+		</data>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/fgL-aR-1W5-view-EqA-ef-8Mk.nib</key>
+		<data>
+		Ty0GU+E8jzqmS1uU74EYnrDY8e8=
+		</data>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/rCK-HC-WTu-view-HGF-K4-0i1.nib</key>
+		<data>
+		btkie+R8/uEAvhMN1PvFBtK0x5I=
+		</data>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/tZs-bd-QHb-view-uRp-oI-5GZ.nib</key>
+		<data>
+		wb/sQI73deUF4djA4mTxbH/+Bko=
+		</data>
+		<key>Resources/SketchRunnerAssetPathDescriptionEditor.nib</key>
+		<data>
+		c2PGEaH06960cCWoQ5zFpEEYkZA=
+		</data>
+		<key>Resources/SketchRunnerAssetPathEditor.nib</key>
+		<data>
+		U2YA8tOYDMXvs1PYPTxJtAMYFBs=
+		</data>
+		<key>Resources/SketchRunnerBrowserFooterView.nib</key>
+		<data>
+		2nRhrMy9zal01PT8yAyyiSq0IjQ=
+		</data>
+		<key>Resources/SketchRunnerBrowserHeaderView.nib</key>
+		<data>
+		zB2jpBHMbSt4A98hHAU0KwzyeKE=
 		</data>
 		<key>Resources/SketchRunnerFeedbackWindow.nib</key>
 		<data>
-		nOgLTWOwWaZ0aVg3oh4lurCadbE=
+		enu3Rh1S+289zNGkautRu2sumW8=
 		</data>
 		<key>Resources/SketchRunnerInputController.nib</key>
 		<data>
-		ovNQUQBfSqIJacmnkNU3LKGTlGc=
+		tfAqCHv2oO86Lyfz2XYdvpk9Hws=
 		</data>
 		<key>Resources/SketchRunnerJumpBar.nib</key>
 		<data>
-		a6HYWiLJ7WcBhWAb5hyxU0Imjvk=
+		wYQ33ggJmYeF/x89+MFuBsUuxqo=
 		</data>
 		<key>Resources/SketchRunnerJumpBarActionItem.nib</key>
 		<data>
@@ -46,7 +94,7 @@
 		</data>
 		<key>Resources/SketchRunnerManageIgnoredLibrariesViewController.nib</key>
 		<data>
-		76YwUwq9yMJK3bakoQPHlnlrGAA=
+		FlpuASDSqw5Ey1q15vlh8UzzfXQ=
 		</data>
 		<key>Resources/SketchRunnerManageIgnoredLibrariesWindowController.nib</key>
 		<data>
@@ -54,39 +102,47 @@
 		</data>
 		<key>Resources/SketchRunnerPluginDetailsWindow.nib</key>
 		<data>
-		JRiIBVX9a87zs5kJuRJXO6NzQ/o=
+		5NpGwOMZGF+2Bvvio6N6prK3XrY=
 		</data>
 		<key>Resources/SketchRunnerRenameLayerWindow.nib</key>
 		<data>
-		aMFDRC0lWTg8Lskq0CJ1+Lzq2ls=
+		WqJs2PsEHY6Zqkjx3RdvZXzuiiw=
+		</data>
+		<key>Resources/SketchRunnerRenamingConflictEditor.nib</key>
+		<data>
+		Gv/uIpbHN/oCSK9oOps1GuGJiO4=
 		</data>
 		<key>Resources/SketchRunnerSearchOverridesViewController.nib</key>
 		<data>
-		nFdKn6BQQwZOif7f+6PbycuOeIc=
+		+9jocu3NrRBNq67bJHtRykyPlrg=
 		</data>
 		<key>Resources/SketchRunnerSessionsWindow.nib</key>
 		<data>
-		5yHnB0sM0z7gJyDdjND4Nk2XR5E=
+		2oo6krnbVOQ0/DhyUuYLPWiv280=
 		</data>
 		<key>Resources/SketchRunnerSettingsWindowController.nib</key>
 		<data>
-		1QTD/VHlo3J93Gv9exMYb0KxCj0=
+		ePoLb3pah9moT6RolVLy+LUtWq8=
 		</data>
 		<key>Resources/SketchRunnerSignInWindow.nib</key>
 		<data>
-		LIT2UHg5uR/zI9YLng3OAlcwe6Y=
+		wHNfql14fYngapNDJiwNMfZx3FE=
 		</data>
 		<key>Resources/SketchRunnerSymbolBrowserItem.nib</key>
 		<data>
-		z+dLxE84Wmgo7jxUdexQio7gaOg=
+		lEb6413E9iUeq4HxfqBZsD8PJO4=
 		</data>
-		<key>Resources/SketchRunnerSymbolBrowserWindow.nib</key>
+		<key>Resources/SketchRunnerSymbolBrowserStyleItem.nib</key>
 		<data>
-		hcVQrsrg4Axup1UZh4rwRBwE+bQ=
+		ls1BrnQQFKKRdqs92QHYTRGek9g=
+		</data>
+		<key>Resources/SketchRunnerSymbolBrowserTextStyleItem.nib</key>
+		<data>
+		4C2EJjNPukNWERmAveX8oSQE94Y=
 		</data>
 		<key>Resources/SketchRunnerWelcomeSlides.nib</key>
 		<data>
-		A3qLPn0lgyNyrcFa0tHghf6meNw=
+		JANwio6GWsJUEnuwrZVJIaLdSlU=
 		</data>
 		<key>Resources/SketchRunnerWelcomeWindow.nib</key>
 		<data>
@@ -98,15 +154,15 @@
 		</data>
 		<key>Resources/commands.json</key>
 		<data>
-		JW+kBUyfvIb2x+myjhYHxqxCQ3E=
+		XBU6shJbrhwehijWgET2FP5j/Us=
 		</data>
 		<key>Resources/defaultConfig.json</key>
 		<data>
-		yt2JpNhUheSjRU8OgM4bzBlpURU=
+		UNSxyp8KgQGc07tsbEGG6YEjO88=
 		</data>
 		<key>Resources/manifest.json</key>
 		<data>
-		tR/jUdy/WXtV5lEktfqb2CN86tg=
+		tR6ginzbaQ+XXhczyo1t0ttxA68=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -115,42 +171,126 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Toe5XqlKVbsT53knRENMZeprrJmAhQ8v33y3uQX9zck=
+			PAx1D9Xg5pFNaD0Wh4RO5InMdX2NTobqI4J9nYujbec=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BpT4Mz+ac8hwmWNiatHe6HtNvgYWokiRY8tDnePflSM=
+			zOaJsW6nhhrzIjk0tsS8GTHqSY2P+8mZw9suBOedzAY=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerActionPopoverController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KyVL/cpYmbhAQskkrcRtQxnFXL4uFHnp0gnpBaGB3rA=
+			AEaa/fBNHCGVfsvK3JRn8ulj5CNkKVOoScs39XE0Pjg=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/I7w-iG-Z7f-view-nR5-zm-dnO.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sUDo7EzzvNgVjEd6SFwcmZ5IMOQfrlg1idmMO+wPDQ4=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ES+UUkLrFF52Bpczr4Nk1w+0kC/ktsLe+B7N4dhfqW4=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/Iun-2h-HI3-view-VGt-t6-Tqo.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8jLUUPxetE0bDWUFAQYfdNIA7nYjgvm/Jpquq/FDH1Q=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/NSWindowController-aQD-xw-5aj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jmjJsO6aZtFyAfDNRuPE8+nwGq0MFHBaNrSNOBVKKMQ=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/bFk-kD-BfT-view-Jb1-5S-CMM.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C9M26b28dZsc8xJiL8leyvAMLojKsDUMlOdsOg5W40w=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/fgL-aR-1W5-view-EqA-ef-8Mk.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VQaTCVIPctJZF2qw1k4Vf+f7X9Md0KPreMb7HV6n+y0=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/rCK-HC-WTu-view-HGF-K4-0i1.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UfQ+XYllDY32gbQr4uG5qtAEJaWLHFawEJYu2AYZZOs=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerAssetBrowserStoryboard.storyboardc/tZs-bd-QHb-view-uRp-oI-5GZ.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Zi1arJg92tgpJ7c8NWXQVTmwNbwcbRRC03xZPqVMfxI=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerAssetPathDescriptionEditor.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QR1Idw6E4n6NgtW4T1Lwox4+Mra/tKcO+CH4tNml61s=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerAssetPathEditor.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k1QkBFV0LtTKrXzwhDw2XmBEfgwDfKBHSZrrjeva6bo=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerBrowserFooterView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Mnogh5yfAs7nbJc2OqQDX1J4hboXA7WVQ+gihNXBS/M=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerBrowserHeaderView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sIpBiT+J6Dh/rw2BJ++IPG704XbTJxuBK5lWSHFX0EE=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerFeedbackWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QiRXO8OtTW2xpwhNvCK/TuZI+3OPLn+JcTfHxuoM2NA=
+			H9PrSlK3IA/FSI3Hijn3WC5W+kBhNemaIekcHMK5Xvk=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerInputController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u4N5ruT206ybsytuHCaq0qkGXlNflwkYSR09aWQ6bok=
+			SvHnykhf1eLhuFbt8duaqWxfTufRYSUyal1L7kgWkoc=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerJumpBar.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lAFFWyQgecIIdA1k/UJ0PAuxb/xXTvjO6gj8hkKMwUQ=
+			HG3UyfLtWuzamn//M4FOzc98bDLpmlebL2y72uR+Sow=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerJumpBarActionItem.nib</key>
@@ -185,7 +325,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lrThGXYeIZZ03q2wir7ZvVVbnxG5/C0wbiBJAHR38Tw=
+			fv4MFa/0E6F4Pf9lc3JuQYvWZYDIYo6NAxdPPecUFLs=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerManageIgnoredLibrariesWindowController.nib</key>
@@ -199,63 +339,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4ihb8QUG6bJplvhWDigv95zBU5/KYu783eREy0HUvZo=
+			emdqemTQODHz1VS20mtIsC41xqjm9RUZa3AdcXSxsJc=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerRenameLayerWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X6nz6qDBVyk/2CxSp+rTKQaOxs+nd7YAHYTkz4iSX0o=
+			fzzcpcGjH6XDYII5RCCOMnhHN89GTcgqBHwImYQ40H0=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerRenamingConflictEditor.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gEr5U+Rzgp4SAIi1boaV4Tv3LZWe3g4sNxeUmE1N4Wo=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerSearchOverridesViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TXFMqsYRn51vmPcTY095oMOpgwRr03xXljYzdg0F0bo=
+			A6rwv/a3fuaH5U+D1KRvewTcNH2tcr4u8dszwE1DbMc=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerSessionsWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mvSiQ2tmqyTUqWuRz2I6A478kk5oCruMopq84O8OBvk=
+			CP+cvPJ1nPrYdzxjgbr0uSLEnvdy67S4zpXS6DeI7hI=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerSettingsWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oilqnjq1mzG/hHiA0R57Eu7+H2wjaPsbKCsWqv5Dutk=
+			yaWziQYioqa5EN6VoAdOVcG/2zM8ZysnG5WZnIt4OS4=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerSignInWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dwozaKkz0xX3ejBxdDdfXc2MHCmSRSLCCcMo0uliiMk=
+			/ONZZU74uvan7PHbrOQV/pXw8wmk2rOJDSxbSk/jqqA=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerSymbolBrowserItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gys3Zmmn84x7dV1k61HLfubxXXc6EwPkj02wlMdopnY=
+			wj/8lSoPM9gbyp4ILsfqQ6z+cOXJu837XWrB13fb7hw=
 			</data>
 		</dict>
-		<key>Resources/SketchRunnerSymbolBrowserWindow.nib</key>
+		<key>Resources/SketchRunnerSymbolBrowserStyleItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3kcmfCj0c9gkaj4ACJc6Nf6yHTA1mNfSxw2JyeFDa98=
+			Rh84bkxFo2Til2StG10xXQMAPMI6uvilP7mPgkknhHE=
+			</data>
+		</dict>
+		<key>Resources/SketchRunnerSymbolBrowserTextStyleItem.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RVAjDt3DnSQ07JsJnkO23Kk5XnBJ/ygO+koe0ttPNEA=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerWelcomeSlides.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L1Rk/n+7lBkVK1Dlw3olbHxIGbmjX8i701xWAB2UxpU=
+			FMYpU+G8xXeqJYtjLoniKhRyx9OpnBaqI7uirlvYxYE=
 			</data>
 		</dict>
 		<key>Resources/SketchRunnerWelcomeWindow.nib</key>
@@ -276,21 +430,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kSKFqzWdBo3gf8Fv6cVgGTbfMMEdVcosFxwLuuq0FPU=
+			hSerWuyIBkd2SlyBg4iNWbeiNFCERuoLHSCxmwzblQg=
 			</data>
 		</dict>
 		<key>Resources/defaultConfig.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tL4Wsyq5AusfFY4FZTkO5GEikkEW4nLVw6Z5lRXhbPw=
+			XaF7KUOLCEuifpIjiCZMe+sn9nYoF+kLCVFHomhReCw=
 			</data>
 		</dict>
 		<key>Resources/manifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CDqeLUAi+1sAIJ9lY/o/Ozq/FRc5mDnadQDxrdBHg5Q=
+			pkzeDehU9oybMHpDOZKS/LLLpg62KFzFtTjiUBEsiwU=
 			</data>
 		</dict>
 	</dict>

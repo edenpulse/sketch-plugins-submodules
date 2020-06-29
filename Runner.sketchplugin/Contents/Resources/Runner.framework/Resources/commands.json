@@ -8,6 +8,14 @@
             "identifier" : "run",
             "icon" : "icons/run.png",
             "iconDark" : "icons/run-dark.png"
+        },{
+            "script" : "script.js",
+            "handler" : "go",
+            "shortcut" : "",
+            "name" : "Components Browser (Beta)",
+            "identifier" : "componentsBrowser",
+            "icon" : "icons/browser.png",
+            "iconDark" : "icons/browser-dark.png"
         },
         {
             "script" : "script.js",
@@ -145,6 +153,8 @@
             "create",
             "apply",
             "install",
+            "-",
+            "componentsBrowser",
             "-",
             "toggleRunbar",
             "-",
